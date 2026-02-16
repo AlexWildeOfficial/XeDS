@@ -129,7 +129,7 @@ function Router.Handler(req, res)
     end)
 
     
-
+    return
 end
 
 return Router
